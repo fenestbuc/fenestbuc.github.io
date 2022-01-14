@@ -12,7 +12,11 @@ p.extreme {
 	line-height: 4;
   }
 
-  @media (min-width: 576px) {
+p.mid {
+	line-height: 1.2;
+  }
+
+@media (min-width: 576px) {
 	html {
 		font-size: 14px;
 	}
